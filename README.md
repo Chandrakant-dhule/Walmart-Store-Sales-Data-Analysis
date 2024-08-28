@@ -1,4 +1,4 @@
 # Walmart-Store-Sales-Data-Analysis
 <br>
-About
+<b>About</b>
 <br>
